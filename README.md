@@ -4,6 +4,7 @@ welcome to my solavisetech journey and goals .
 
 ## About solavisetech 
 
+My Solavise learning journey
 solavisetech is a program that trains women in ;
   - Data science
   - ML 
